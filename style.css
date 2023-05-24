@@ -1,0 +1,15 @@
+#navmenu {
+    list-style-type: none;
+
+}
+ ul li:hover {
+    background-color: palegreen;
+    border: 1px solid rgb(255, 163, 163);
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+ul li a {
+    text-decoration: none;
+}
+
